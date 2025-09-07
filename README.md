@@ -29,7 +29,7 @@ To set up and run the Airport Management System, follow these steps:
 ### Steps to Set Up
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/ajayhukam/Aircraft-Fleet-Management-System.git
+   git clone https://github.com/AKSHIT3107/Aircraft-Fleet-Management-System.git
 2. Import the database schema into your Oracle database.
 3. Run the SQL scripts provided in the scripts folder to create the necessary tables, views, and stored procedures.
 4. Start querying and interacting with the database using Oracle SQL Developer.
@@ -37,4 +37,4 @@ To set up and run the Airport Management System, follow these steps:
 
 This README includes all the necessary sections to give potential users and contributors a clear understanding of your project, how to set it up, and what the project is about. Let me know if you'd like any modifications!
 
-### Author: Ajay
+### Author: Akshit
